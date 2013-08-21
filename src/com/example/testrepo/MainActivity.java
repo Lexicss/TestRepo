@@ -28,6 +28,7 @@ public class MainActivity extends Activity {
 		 * er
 		 * 
 		 */
+		Log.v("AM", "His is verbose message in lexbranch");
 	}
 
 	@Override
