@@ -13,6 +13,8 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		Log.i("AM", "Activity started");
 		Log.d("AM", "Here I make a next change");
+		
+		// This comment is special to make a change for next commit
 	}
 
 	@Override
