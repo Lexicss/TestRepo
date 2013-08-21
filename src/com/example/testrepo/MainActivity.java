@@ -15,6 +15,19 @@ public class MainActivity extends Activity {
 		Log.d("AM", "Here I make a next change");
 		
 		// This comment is special to make a change for next commit
+		/*
+		 * *
+		 * erere
+		 * re
+		 * re
+		 * r
+		 * er
+		 * e
+		 * re
+		 * r
+		 * er
+		 * 
+		 */
 	}
 
 	@Override
