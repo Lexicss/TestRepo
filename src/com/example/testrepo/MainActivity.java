@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		Log.i("AM", "Activity started");
+		Log.d("AM", "Here I make a next change");
 	}
 
 	@Override
